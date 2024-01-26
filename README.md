@@ -36,7 +36,7 @@ To set up and run the API AI Collection - Assignment and Campaign, follow these 
 
    ```
    git clone https://github.com/your-username/ai-collection-assignment-campaign.git
-  ```
+   ```
 
 2. Create a virtual environment using the following command:
 
@@ -53,9 +53,9 @@ To set up and run the API AI Collection - Assignment and Campaign, follow these 
 4. Upgrade Pip
 Ensure that your Pip is up to date. You can check your Pip version using the following command:
 
-```
-python -m pip install --upgrade pip
-```
+  ```
+  python -m pip install --upgrade pip
+  ```
 
 5. Install the requirements from requirements.txt:
 
@@ -75,11 +75,11 @@ python -m pip install --upgrade pip
   ```
 
 8. To try Predict Assignment feature:
-```
-http://127.0.0.1:8000/fitur-4/predict-assignment/
-```
+  ```
+  http://127.0.0.1:8000/fitur-4/predict-assignment/
+  ```
 
 9. To try Predict Campaign feature:
-```
-http://127.0.0.1:8000/fitur-4/predict-campaign/
-```
+  ```
+  http://127.0.0.1:8000/fitur-4/predict-campaign/
+  ```
