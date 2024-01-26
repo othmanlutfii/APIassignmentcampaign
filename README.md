@@ -34,16 +34,18 @@ To set up and run the API AI Collection - Assignment and Campaign, follow these 
 
 1. Clone the project repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/ai-collection-assignment-campaign.git
   ```
 
 2. Create a virtual environment using the following command:
+
   ```
   python -m venv venv
   ```
 
 3. Activate the created virtual environment:
+
   ```
   .\venv\Scripts\activate
   ```
